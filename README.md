@@ -15,7 +15,11 @@ This project is a Figma-inspired experiment designed for fun. It brings to life 
     <img src="https://i.imgur.com/QkyHU6V.png" alt="Screenshot 1" width="200"/>
     <img src="https://i.imgur.com/cHAtZQe.png" alt="Screenshot 2" width="200"/>
     <img src="https://i.imgur.com/BJplqbz.png" alt="Screenshot 3" width="200"/>
-    <!-- Add more screenshots as needed -->
+    <img src="https://i.imgur.com/zZeBd58.png" alt="Screenshot 3" width="200"/>
+    <img src="https://i.imgur.com/AwsAzCn.png" alt="Screenshot 1" width="200"/>
+    <img src="https://i.imgur.com/I6MLgCc.png" alt="Screenshot 2" width="200"/>
+    <img src="https://i.imgur.com/LzbOZk6.png" alt="Screenshot 3" width="200"/>
+    
 </div>
 
 ## Features
