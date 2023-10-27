@@ -1,7 +1,5 @@
 # CryptoCollect
 
-![Project Logo](insert-logo-url-here)
-
 ## Overview
 
 This project is a Figma-inspired experiment designed for fun. It brings to life a captivating design found on the Figma Community Store.
