@@ -44,8 +44,3 @@ Contributions are welcome! Feel free to submit pull requests for improvements or
 ## Credits
 
 - Figma Community Store for design inspiration
-- [Your Name] and [Other Contributors] for project development
-
-## License
-
-This project is licensed under [Your License]. See the [LICENSE](LICENSE) file for details.
