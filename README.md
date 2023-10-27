@@ -9,9 +9,9 @@ This project is a Figma-inspired experiment designed for fun. It brings to life 
 ## Screenshots
 
 <div align="center">
-    <img src="https://imgur.com/meEbUV8" alt="Screenshot 1" width="200"/>
-    <img src="https://imgur.com/EOzxqRl" alt="Screenshot 2" width="200"/>
-    <img src="https://imgur.com/gkuLF70" alt="Screenshot 3" width="200"/>
+    <img src="https://i.imgur.com/meEbUV8.png" alt="Screenshot 1" width="200"/>
+    <img src="https://i.imgur.com/EOzxqRl.png" alt="Screenshot 2" width="200"/>
+    <img src="https://i.imgur.com/gkuLF70.png" alt="Screenshot 3" width="200"/>
     <!-- Add more screenshots as needed -->
 </div>
 
